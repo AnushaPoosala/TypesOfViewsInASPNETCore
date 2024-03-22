@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TypesOfViewsInASPNETCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41857c63a450b2abadf0c84852298856081e9430")]
 [assembly: System.Reflection.AssemblyProductAttribute("TypesOfViewsInASPNETCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TypesOfViewsInASPNETCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

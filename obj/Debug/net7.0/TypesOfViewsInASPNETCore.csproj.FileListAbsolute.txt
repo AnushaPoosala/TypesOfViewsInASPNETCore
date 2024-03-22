@@ -221,3 +221,4 @@ C:\Users\anush\OneDrive\Desktop\OVN_Anusha_Learnings\.NetCore\TypesOfViewsInASPN
 C:\Users\anush\OneDrive\Desktop\OVN_Anusha_Learnings\.NetCore\TypesOfViewsInASPNETCore\obj\Debug\net7.0\TypesOfViewsInASPNETCore.pdb
 C:\Users\anush\OneDrive\Desktop\OVN_Anusha_Learnings\.NetCore\TypesOfViewsInASPNETCore\obj\Debug\net7.0\TypesOfViewsInASPNETCore.genruntimeconfig.cache
 C:\Users\anush\OneDrive\Desktop\OVN_Anusha_Learnings\.NetCore\TypesOfViewsInASPNETCore\obj\Debug\net7.0\ref\TypesOfViewsInASPNETCore.dll
+C:\Users\anush\OneDrive\Desktop\OVN_Anusha_Learnings\.NetCore\TypesOfViewsInASPNETCore\obj\Debug\net7.0\TypesOfViewsInASPNETCore.sourcelink.json

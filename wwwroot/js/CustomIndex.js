@@ -4,4 +4,4 @@
 var body = document.body;
 
 // Change the background color
-body.style.backgroundColor = "skyblue"; // You can set any color you want here
+body.style.backgroundColor = "lightyellow"; // You can set any color you want here
