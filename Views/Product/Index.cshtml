@@ -22,6 +22,10 @@
         @foreach(var product in Model)
         {
             @await Html.PartialAsync("_ProdDetails",product);
+            @* @Html.Partial("_ProductDetails",Model); *@
+            @* @Html.RenderPartial("_ProductDetails",Model); *@
+            @* @await Html.RenderPartialAsync("_ProductDetails",Model); *@
+            @* <partial name="_ProdDetails" model="Model" /></partial> *@
         }
         
     </tbody>
